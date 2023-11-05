@@ -106,11 +106,11 @@ typeof null                   // Returns "object"
 
 Example, 
 
-let a = 2001;
+*let a = 2001;*
 
-console.log(typeof a); // Output:number. At this point, the variable a is assigned the numerical value of 2001, which we have confirmed to be a number.
+*console.log(typeof a);* // Output:number. At this point, the variable a is assigned the numerical value of 2001, which we have confirmed to be a number.
 
-a = String(a);	// "2001" let’s reassign a to its string equivalent and then use typeof to confirm that we have successfully converted the variable’s value from a number to a string.
+*a = String(a);*	// "2001" let’s reassign a to its string equivalent and then use typeof to confirm that we have successfully converted the variable’s value from a number to a string.
 
-console.log(typeof a); // Output: string. We have confirmed that a was reassigned to be equivalent to a string value following the data type conversion.
+*console.log(typeof a);* // Output: string. We have confirmed that a was reassigned to be equivalent to a string value following the data type conversion.
 
