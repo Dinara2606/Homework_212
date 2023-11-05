@@ -104,7 +104,7 @@ typeof null                   // Returns "object"
 
  **Boolean()** methid is used to convert numbers or strings to Boolean values
 
-Example, 
+**Example**: 
 
 *let a = 2001;*
 
